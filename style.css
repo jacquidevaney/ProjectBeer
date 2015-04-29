@@ -137,4 +137,8 @@ a:hover {
     color: #FF6600;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 
