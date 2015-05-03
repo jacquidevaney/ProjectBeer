@@ -126,5 +126,20 @@ p {
 
 }
 
+.source { 
+	font-size: 15px;
+}
+
+a {
+    color: #FFCC99;
+}
+
+a:hover {
+    color: #FF6600;
+}
+
+a:link {
+    text-decoration: none;
+}
 
 
