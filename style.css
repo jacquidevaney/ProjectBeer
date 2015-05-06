@@ -114,10 +114,13 @@ p {
 	width: 100%;
 }
 
-
 .state-beer-text { 
 	margin-bottom: 50px;
 	right: 40px;
+}
+
+.mobilechart { 
+	display: none;
 }
 
 .popular-beer-text { 
@@ -175,23 +178,43 @@ a:link {
 		width: 300px;
 		right: 0px;
 	}
-<<<<<<< HEAD
 
-.container {
-	margin-bottom: 50px;
-/*	position: relative;
-*/	width: 100%;
+	.container {
+		margin-bottom: 50px;
+	/*	position: relative;
+	*/	width: 100%;
+	}
+
+
+.beer-state-chart { 
+	margin: 0px
+	right: 0px;
+	width: 100%;
+}
+
+.brewery-chart {
+	width: 100%;
+}
+
+.state-beer-text { 
+	margin-bottom: 0px;
+	right: 0px;
 }
 
  	.popular-beer-text { 
  		width: 300px;
  	}
 
-=======
 	
 	.headline-stuff { 
 	top: 10%;
+	}
 
-}
->>>>>>> bec7daa823f8e04e99611df64880761865ed44e1
+	.mobilechart { 
+		display: inline-block;
+	}
+
+	.desktopchart { 
+		display: none;
+	}
 }
