@@ -131,15 +131,23 @@ p {
 }
 
 a {
-    color: #FFCC99;
+    color: #FF6600;
 }
 
 a:hover {
-    color: #FF6600;
+    color: #FFCC99;
 }
 
 a:link {
     text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+	h1 { 
+		font-size: 40px;
+
+	}
+
 }
 
 
