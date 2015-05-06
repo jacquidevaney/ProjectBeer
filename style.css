@@ -215,6 +215,7 @@ a:link {
 
 	.mobilechart { 
 		display: inline-block;
+		margin: 0px auto;
 	}
 
 	.desktopchart { 
