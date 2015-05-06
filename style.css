@@ -145,6 +145,7 @@ a:link {
 @media screen and (max-width: 500px) {
 	h1 { 
 		font-size: 40px;
+		
 
 	}
 
@@ -156,4 +157,9 @@ a:link {
 		font-size: 40px;
 
 	}
+	
+	.headline-stuff { 
+	top: 10%;
+
+}
 }
